@@ -6,7 +6,8 @@ O *Perceptron* é uma rede neural artificial simplificada, proposta por Frank Ro
 
 ### Representação matemática do modelo
 
-O *Perceptron* implementa o modelo *y* = *g(w·x + b)*, onde:
+O *Perceptron* implementa o modelo<br>
+*y* = *g(w·x + b)*, onde:
 
 *w* são os pesos sinápticos;
 *x* são as entradas;
