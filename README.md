@@ -158,4 +158,14 @@ if __name__ == "__main__":
     
     # Plota o histórico de erros
     perceptron.plot_error_history()
-´´´
+```
+
+```Treinamento concluído na época 2
+Pesos finais (incluindo bias): [0.81523221 0.75252511 0.61125827]
+
+Testando o perceptron treinado:
+Entrada: [0 0] -> Saída: -1
+Entrada: [0 1] -> Saída: -1
+Entrada: [1 0] -> Saída: -1
+Entrada: [1 1] -> Saída: 1
+```
