@@ -180,7 +180,7 @@ Entrada: [1 1] -> Saída: 1
 
 ### Considerações finais
 
-Este código demonstra os conceitos fundamentais do Perceptron, incluindo sua representação matemática, função de ativação, algoritmo de treinamento e operação.
+Este código demonstra os conceitos fundamentais do *Perceptron*, incluindo sua representação matemática, função de ativação, algoritmo de treinamento e operação.
 
 
 
