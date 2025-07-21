@@ -178,6 +178,12 @@ Entrada: [1 1] -> Saída: 1
 
 
 
+### Considerações finais
+
+Este código demonstra os conceitos fundamentais do Perceptron, incluindo sua representação matemática, função de ativação, algoritmo de treinamento e operação.
+
+
+
 ### Crédito:
 
 Apostila elaborada por Rodolpho Neves, responsável pela disciplina *Aprendizado de máquina*, na PÓS em IA da Universidade Federal de Viçosa
