@@ -175,3 +175,9 @@ Entrada: [1 1] -> Saída: 1
 ![](fronteira.png)
 
 ![](treinamento.png)
+
+
+
+### Crédito:
+
+Apostila elaborada por Rodolpho Neves, responsável pela disciplina *Aprendizado de máquina*, na PÓS em IA da Universidade Federal de Viçosa
