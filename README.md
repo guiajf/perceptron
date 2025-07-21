@@ -9,10 +9,10 @@ O *Perceptron* é uma rede neural artificial simplificada, proposta por Frank Ro
 O *Perceptron* implementa o modelo<br>
 *y* = *g(w·x + b)*, onde:
 
-*w* são os pesos sinápticos;
-*x* são as entradas;
-*b* é o limiar de ativação (bias);
-*g* é a função de ativação.
+- *w* são os pesos sinápticos;
+- *x* são as entradas;
+- *b* é o limiar de ativação (bias);
+- *g* é a função de ativação.
 
 ### Função de Ativação
 
