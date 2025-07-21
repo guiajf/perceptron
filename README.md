@@ -169,3 +169,9 @@ Entrada: [0 1] -> Saída: -1
 Entrada: [1 0] -> Saída: -1
 Entrada: [1 1] -> Saída: 1
 ```
+
+### Visualização
+
+![](fronteira.png)
+
+![](treinamento.png)
