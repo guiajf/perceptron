@@ -187,4 +187,4 @@ Este código demonstra os conceitos fundamentais do *Perceptron*, incluindo sua 
 
 ### Crédito:
 
-Apostila elaborada por Rodolpho Neves, responsável pela disciplina *Aprendizado de máquina*, na PÓS em IA da Universidade Federal de Viçosa
+Apostila elaborada por Rodolpho Neves, responsável pela disciplina *Aprendizado de máquina*, na PÓS em IA da Universidade Federal de Viçosa (UFV).
