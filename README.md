@@ -14,7 +14,7 @@ O *Perceptron* implementa o modelo<br>
 - *b* é o limiar de ativação (bias);
 - *g* é a função de ativação.
 
-### Função de Ativação
+### Função de ativação
 
 Implementamos a função *degrau unitário*, caso particular da *sigmoide* quando β tende ao infinito, que retorna 1 se a entrada for ≥ 0 e -1, por outro lado.
 
@@ -26,7 +26,7 @@ O algoritmo segue a regra de atualização: *W_atual* = *W_anterior + η(d - y)X
 
 Aplicamos ao modelo um problema de classificação com classes linearmente separáveis. Após o treinamento, o *Perceptron* pode ser usado para fazer predições em novos dados.
 
-### Saída Esperada
+### Saída esperada
 
 Após a execução do código, obtemos os pesos finais do Perceptron após o treinamento, as predições para cada entrada do conjunto de treinamento, um gráfico mostrando a fronteira de decisão que separa as classes e um gráfico mostrando a diminuição dos erros ao longo das épocas de treinamento.
 
